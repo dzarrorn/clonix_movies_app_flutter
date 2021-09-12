@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979319376652",
+    "project_id": "clonix-c22ba",
+    "storage_bucket": "clonix-c22ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979319376652:android:0bfb81c3c413aaa7769729",
+        "android_client_info": {
+          "package_name": "com.example.netflix_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979319376652-0dev6imtvm5i2km5gg53c8snd9pihlbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARVLxBcSwduA_EC6ycK_EH6r1D3HBzrFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979319376652-0dev6imtvm5i2km5gg53c8snd9pihlbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
